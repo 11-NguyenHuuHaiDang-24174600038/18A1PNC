@@ -1,0 +1,12 @@
+[
+    {
+        "loai": "Tien",
+        "so_tien": 5000000.0,
+        "mo_ta": "nop tien"
+    },
+    {
+        "loai": "Tien",
+        "so_tien": 5000000.0,
+        "mo_ta": "nop"
+    }
+]

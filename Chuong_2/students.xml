@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<students><student><id>SV001</id><name>Nguyễn Văn A</name><birth>2006</birth><class>18A1</class><gender>Nam</gender></student><student><id>SV002</id><name>Trần Thị B</name><birth>2006</birth><class>18A1</class><gender>Nữ</gender></student><student><id>SV003</id><name>Lê Hoàng C</name><birth>2006</birth><class>18A1</class><gender>Nam</gender></student></students>
